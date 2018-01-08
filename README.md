@@ -14,7 +14,7 @@
 
 ## Running FreePBX
 
-[Docker Hub] (https://hub.docker.com/r/citrustelecom/freepbx/builds/) automatically builds the latest changes into images which can easily be pulled and ran with a simple `docker run` command. 
+[Docker Hub] (https://hub.docker.com/r/tomtek/xpbx/) automatically builds the latest changes into images which can easily be pulled and ran with a simple `docker run` command. 
 
 I found for best results and since I have more than one public IP, i'm using macvlan set up:
 ```
